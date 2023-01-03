@@ -1,0 +1,3 @@
+nomeTeste;Email;password;nomeUsuario;resultado;
+loginValido;viniciusquaresma14@hotmail.com;123456;vinicius quaresma;positivo
+loginInvalido;vinicius14@hotmail.com;123456;vinicius quaresma;negativo
